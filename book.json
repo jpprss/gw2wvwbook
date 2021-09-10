@@ -1,0 +1,11 @@
+{ 
+  "author": "JPP",
+  "description": "This is such a great book!",
+  "language": "zh-hans",
+  "styles": {
+      "website": "./styles/website.css"
+  },
+  "structure": {
+    "readme": "README.md"
+  }
+}
